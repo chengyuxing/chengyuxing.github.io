@@ -6,7 +6,7 @@ Bookmark this to keep an eye on my life updates!
 
 ## ☕️ Some keywords!
 
-[<kbd>Dynamic SQL</kbd>](#about sql) <kbd>File manager</kbd> <kbd>IDEA plugin</kbd> <kbd>🧸 Life</kbd> <kbd>🥤 Food</kbd> <kbd>🏋️‍♀️ GYM</kbd>
+[<kbd>Dynamic SQL</kbd>](#about-sql) <kbd>File manager</kbd> <kbd>IDEA plugin</kbd> <kbd>🧸 Life</kbd> <kbd>🥤 Food</kbd> <kbd>🏋️‍♀️ GYM</kbd>
 
 ### About SQL
 
