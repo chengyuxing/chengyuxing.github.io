@@ -6,18 +6,7 @@ Bookmark this to keep an eye on my life updates!
 
 ## ☕️ Some keywords!
 
-[<kbd>Dynamic SQL</kbd>]()
-
-```mermaid
-flowchart
-ds()
-fm(File manager)
-ip(IDEA plugin)
-l(Life)
-f(Food)
-g(GYM)
-more(.....)
-```
+[<kbd>Dynamic SQL</kbd>](#about sql) <kbd>File manager</kbd> <kbd>IDEA plugin</kbd> <kbd>🧸 Life</kbd> <kbd>🥤 Food</kbd> <kbd>🏋️‍♀️ GYM</kbd>
 
 ### about sql
 
@@ -36,7 +25,7 @@ You can get more information from [rabbit-sql](https://github.com/chengyuxing/ra
 
 ![](imgs/project-init.png)
 
-Oh don't forget the **IDEA-IU** [rabbit-sql-plugin](https://plugins.jetbrains.com/plugin/21403-rabbit-sql), it will provides more help for you working with your project, **test dynamic sql**, e.g
+💡 Oh don't forget the **IDEA-IU** [rabbit-sql-plugin](https://plugins.jetbrains.com/plugin/21403-rabbit-sql), it will provides more help for you working with your project, **test dynamic sql**, e.g
 
 ![](imgs/execute-dynamic-sql.png)
 
