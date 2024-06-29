@@ -1,10 +1,23 @@
-Bookmark this to keep an eye on my project updates!
+Bookmark this to keep an eye on my life updates!
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to live every day you know...
 - 🎉 Any way, I have something to show you!
 
-## To find something you need!
+## ☕️ Some keywords!
+
+```mermaid
+flowchart
+ds(Dynamic SQL)
+fm(File manager)
+ip(IDEA plugin)
+l(Life)
+f(Food)
+g(GYM)
+more(.....)
+```
+
+### about sql
 
 This is **dynamic sql** paring as you think, if `id` is `11` ,you should be know the result! 
 
@@ -17,7 +30,7 @@ select * from test.user where
 -- #fi
 ```
 
-You can get more information from [rabbit-sql](https://github.com/chengyuxing/rabbit-sql?tab=readme-ov-file#Dynamic-SQL) to set up your maven project, following a simple project, e.g
+You can get more information from [rabbit-sql](https://github.com/chengyuxing/rabbit-sql?tab=readme-ov-file#Dynamic-SQL) to set up your project, following a simple project, e.g
 
 ![](imgs/project-init.png)
 
