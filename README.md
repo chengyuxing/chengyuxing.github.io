@@ -8,7 +8,7 @@ Bookmark this to keep an eye on my life updates!
 
 [<kbd>Dynamic SQL</kbd>](#about sql) <kbd>File manager</kbd> <kbd>IDEA plugin</kbd> <kbd>🧸 Life</kbd> <kbd>🥤 Food</kbd> <kbd>🏋️‍♀️ GYM</kbd>
 
-### about sql
+### About SQL
 
 This is **dynamic sql** paring as you think, if `id` is `11` ,you should be know the result! 
 
