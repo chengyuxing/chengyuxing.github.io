@@ -9,4 +9,4 @@ minimal_mistakes_skin: dark
 
 assets:
   css:
-    - assets/css/theme.css
+    - /assets/css/theme.css
