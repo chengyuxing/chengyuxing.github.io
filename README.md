@@ -6,9 +6,11 @@ Bookmark this to keep an eye on my life updates!
 
 ## ☕️ Some keywords!
 
+[<kbd>Dynamic SQL</kbd>]()
+
 ```mermaid
 flowchart
-ds(Dynamic SQL)
+ds()
 fm(File manager)
 ip(IDEA plugin)
 l(Life)
