@@ -1,3 +1,5 @@
 #theme: jekyll-theme-minimal
 title: 👋 Hello there! I’m @chengyuxing!
-description: Bookmark this to keep an eye on my project updates!
+assets:
+  css:
+    - assets/css/theme.css
