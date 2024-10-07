@@ -1,12 +1,3 @@
 #theme: jekyll-theme-minimal
 title: 👋 Hello there! I’m @chengyuxing!
 description: Bookmark this to keep an eye on my life updates!
-remote_theme: minimal-mistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-
-minimal_mistakes_skin: dark
-
-assets:
-  css:
-    - /assets/css/theme.css
